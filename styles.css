@@ -1,0 +1,73 @@
+.navbar-brand{
+   color: #FFC107;
+}
+
+/* Seksyen 1 */
+.seksyen1{
+    background-color: #5A6268;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-sewa{
+    color: #FFC107;   
+}
+
+.tulisanPutih{
+    color: white;
+}
+
+
+/* Seksyen 2 */
+
+.seksyen2{
+    background-color: #E9ECEF;
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+.icon{
+    color: #FFC107;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+   padding: 3%;
+}
+
+/* seksyen 3 */
+.seksyen3{
+    background-color: #5A6268;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+
+.seksyen4{
+    background-color: #E9ECEF;
+    padding: 5%;
+    text-align: center;
+}
+
+/* seksyen 5 */
+.seksyen5{
+    background-color: #5A6268;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+    
+}
+/* footer */
+.footer{
+    background-color: #DDDDDD;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: black;
+}
+
